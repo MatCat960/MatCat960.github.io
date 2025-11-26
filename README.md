@@ -1,5 +1,5 @@
 # Mattia Catellani
-**PhD Student · Multi-Robot Systems · Safety & Control · Learning for Robotics**  
+**PhD Student · Multi-Robot Systems · Safety & Control · UAVs**  
 University of Modena and Reggio Emilia  
 
 ---
