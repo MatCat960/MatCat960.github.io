@@ -26,7 +26,7 @@ Below is a list of research works and related resources (code, videos, papers).
 ### **1. Online Learning-Enhanced High Order Adaptive Control Barrier Functions Using Neural ODEs**  
 **Authors:** L. Pan, M. Catellani, L. Sabattini, N. Ayanian  
 *Submitted to IEEE Robotics and Automation Letters, 2026*  
-- 📄 Paper: [PDF](#)  
+- 📄 Paper: [PDF](https://arxiv.org/pdf/2511.19651)  
 
 
 ---
