@@ -112,7 +112,8 @@ Below is a list of research works and related resources (code, videos, papers).
 - Distributed control & coordination  
 - Safety-critical control (CBFs, CLFs, MPC)  
 - Learning-based control  
-- Uncertainty modeling 
+- Uncertainty modeling
+
 ---
 
 ## 🛠️ Tools & Frameworks I Work With
