@@ -59,7 +59,7 @@ Below is a list of research works and related resources (code, videos, papers).
 ### **1. HMPCC: Human-Aware Model Predictive Coverage Control**  
 **Authors:** M. Catellani, M. Gabbi, L. Sabattini  
 *IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS), 2025*  
-- 📄 Paper: [PDF](#)  
+- 📄 Paper: [PDF](https://arxiv.org/pdf/2512.12717)  
 - 💻 Code: [GitHub](https://github.com/ARSControl/hmpcc)
 
 ---
